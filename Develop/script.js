@@ -6,8 +6,18 @@ var pw = "";
 
 function generatePassword() {
   var bucket = "";
-  var length = prompt("How many caracters?");
+  var length = prompt("How many characters?");
   console.log(length);
+  var upper = prompt("Do you want upper case letters?");
+  console.log(upper);
+  var lower = prompt("Do you want lower case letters?");
+  console.log(lower);
+  var num = prompt("Would you like numbers?");
+  console.log(num);
+  var sym = prompt("Would you like special characters?");
+  console.log(sym);
+
+
 }
 
 
