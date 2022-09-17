@@ -1,4 +1,5 @@
-# Password Generator
+
+# Password-Generator
 
 ## Description 
 
@@ -22,3 +23,11 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 
+below are screen shots of the working site and the repo
+
+![live site](assets/images/live.png)
+
+![repo shot](assets/images/repo.png)
+
+repo link https://github.com/Sminker0401/Password-Generator
+live site link https://sminker0401.github.io/Password-Generator/
